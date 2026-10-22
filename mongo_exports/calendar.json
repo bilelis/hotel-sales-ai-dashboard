@@ -1,0 +1,7302 @@
+[
+  {
+    "_id": "2025-01-01",
+    "cal_date": "2025-01-01",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-02",
+    "cal_date": "2025-01-02",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-03",
+    "cal_date": "2025-01-03",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-04",
+    "cal_date": "2025-01-04",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-05",
+    "cal_date": "2025-01-05",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-06",
+    "cal_date": "2025-01-06",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-07",
+    "cal_date": "2025-01-07",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-08",
+    "cal_date": "2025-01-08",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-09",
+    "cal_date": "2025-01-09",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-10",
+    "cal_date": "2025-01-10",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-11",
+    "cal_date": "2025-01-11",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-12",
+    "cal_date": "2025-01-12",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-13",
+    "cal_date": "2025-01-13",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-14",
+    "cal_date": "2025-01-14",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-15",
+    "cal_date": "2025-01-15",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-16",
+    "cal_date": "2025-01-16",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-17",
+    "cal_date": "2025-01-17",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-18",
+    "cal_date": "2025-01-18",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-19",
+    "cal_date": "2025-01-19",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-20",
+    "cal_date": "2025-01-20",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-21",
+    "cal_date": "2025-01-21",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-22",
+    "cal_date": "2025-01-22",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-23",
+    "cal_date": "2025-01-23",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-24",
+    "cal_date": "2025-01-24",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-25",
+    "cal_date": "2025-01-25",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-26",
+    "cal_date": "2025-01-26",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-27",
+    "cal_date": "2025-01-27",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-28",
+    "cal_date": "2025-01-28",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-29",
+    "cal_date": "2025-01-29",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-30",
+    "cal_date": "2025-01-30",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-01-31",
+    "cal_date": "2025-01-31",
+    "year": 2025,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-01",
+    "cal_date": "2025-02-01",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-02",
+    "cal_date": "2025-02-02",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-03",
+    "cal_date": "2025-02-03",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-04",
+    "cal_date": "2025-02-04",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-05",
+    "cal_date": "2025-02-05",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-06",
+    "cal_date": "2025-02-06",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-07",
+    "cal_date": "2025-02-07",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-08",
+    "cal_date": "2025-02-08",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-09",
+    "cal_date": "2025-02-09",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-10",
+    "cal_date": "2025-02-10",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-11",
+    "cal_date": "2025-02-11",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-12",
+    "cal_date": "2025-02-12",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-13",
+    "cal_date": "2025-02-13",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-14",
+    "cal_date": "2025-02-14",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-15",
+    "cal_date": "2025-02-15",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-16",
+    "cal_date": "2025-02-16",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-17",
+    "cal_date": "2025-02-17",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-18",
+    "cal_date": "2025-02-18",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-19",
+    "cal_date": "2025-02-19",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-20",
+    "cal_date": "2025-02-20",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-21",
+    "cal_date": "2025-02-21",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-22",
+    "cal_date": "2025-02-22",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-23",
+    "cal_date": "2025-02-23",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-24",
+    "cal_date": "2025-02-24",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-25",
+    "cal_date": "2025-02-25",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-26",
+    "cal_date": "2025-02-26",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-27",
+    "cal_date": "2025-02-27",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-02-28",
+    "cal_date": "2025-02-28",
+    "year": 2025,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-03-01",
+    "cal_date": "2025-03-01",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-02",
+    "cal_date": "2025-03-02",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-03",
+    "cal_date": "2025-03-03",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-04",
+    "cal_date": "2025-03-04",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-05",
+    "cal_date": "2025-03-05",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-06",
+    "cal_date": "2025-03-06",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-07",
+    "cal_date": "2025-03-07",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-08",
+    "cal_date": "2025-03-08",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-09",
+    "cal_date": "2025-03-09",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-10",
+    "cal_date": "2025-03-10",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-11",
+    "cal_date": "2025-03-11",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-12",
+    "cal_date": "2025-03-12",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-13",
+    "cal_date": "2025-03-13",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-14",
+    "cal_date": "2025-03-14",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-15",
+    "cal_date": "2025-03-15",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-16",
+    "cal_date": "2025-03-16",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-17",
+    "cal_date": "2025-03-17",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-18",
+    "cal_date": "2025-03-18",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-19",
+    "cal_date": "2025-03-19",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-20",
+    "cal_date": "2025-03-20",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-21",
+    "cal_date": "2025-03-21",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-22",
+    "cal_date": "2025-03-22",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-23",
+    "cal_date": "2025-03-23",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-24",
+    "cal_date": "2025-03-24",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-25",
+    "cal_date": "2025-03-25",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-26",
+    "cal_date": "2025-03-26",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-27",
+    "cal_date": "2025-03-27",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-28",
+    "cal_date": "2025-03-28",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-29",
+    "cal_date": "2025-03-29",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-30",
+    "cal_date": "2025-03-30",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-03-31",
+    "cal_date": "2025-03-31",
+    "year": 2025,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-01",
+    "cal_date": "2025-04-01",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-02",
+    "cal_date": "2025-04-02",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-03",
+    "cal_date": "2025-04-03",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-04",
+    "cal_date": "2025-04-04",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-05",
+    "cal_date": "2025-04-05",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-06",
+    "cal_date": "2025-04-06",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-07",
+    "cal_date": "2025-04-07",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-08",
+    "cal_date": "2025-04-08",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-09",
+    "cal_date": "2025-04-09",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-10",
+    "cal_date": "2025-04-10",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-11",
+    "cal_date": "2025-04-11",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-12",
+    "cal_date": "2025-04-12",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-13",
+    "cal_date": "2025-04-13",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-14",
+    "cal_date": "2025-04-14",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-15",
+    "cal_date": "2025-04-15",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-16",
+    "cal_date": "2025-04-16",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-17",
+    "cal_date": "2025-04-17",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-18",
+    "cal_date": "2025-04-18",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-19",
+    "cal_date": "2025-04-19",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-20",
+    "cal_date": "2025-04-20",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-21",
+    "cal_date": "2025-04-21",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-22",
+    "cal_date": "2025-04-22",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-23",
+    "cal_date": "2025-04-23",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-24",
+    "cal_date": "2025-04-24",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-25",
+    "cal_date": "2025-04-25",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-26",
+    "cal_date": "2025-04-26",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-27",
+    "cal_date": "2025-04-27",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-28",
+    "cal_date": "2025-04-28",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-29",
+    "cal_date": "2025-04-29",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-04-30",
+    "cal_date": "2025-04-30",
+    "year": 2025,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-01",
+    "cal_date": "2025-05-01",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-02",
+    "cal_date": "2025-05-02",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-03",
+    "cal_date": "2025-05-03",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-04",
+    "cal_date": "2025-05-04",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-05",
+    "cal_date": "2025-05-05",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-06",
+    "cal_date": "2025-05-06",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-07",
+    "cal_date": "2025-05-07",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-08",
+    "cal_date": "2025-05-08",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-09",
+    "cal_date": "2025-05-09",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-10",
+    "cal_date": "2025-05-10",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-11",
+    "cal_date": "2025-05-11",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-12",
+    "cal_date": "2025-05-12",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-13",
+    "cal_date": "2025-05-13",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-14",
+    "cal_date": "2025-05-14",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-15",
+    "cal_date": "2025-05-15",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-16",
+    "cal_date": "2025-05-16",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-17",
+    "cal_date": "2025-05-17",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-18",
+    "cal_date": "2025-05-18",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-19",
+    "cal_date": "2025-05-19",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-20",
+    "cal_date": "2025-05-20",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-21",
+    "cal_date": "2025-05-21",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-22",
+    "cal_date": "2025-05-22",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-23",
+    "cal_date": "2025-05-23",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-24",
+    "cal_date": "2025-05-24",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-25",
+    "cal_date": "2025-05-25",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-26",
+    "cal_date": "2025-05-26",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-27",
+    "cal_date": "2025-05-27",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-28",
+    "cal_date": "2025-05-28",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-29",
+    "cal_date": "2025-05-29",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-30",
+    "cal_date": "2025-05-30",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-05-31",
+    "cal_date": "2025-05-31",
+    "year": 2025,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2025-06-01",
+    "cal_date": "2025-06-01",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-02",
+    "cal_date": "2025-06-02",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-03",
+    "cal_date": "2025-06-03",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-04",
+    "cal_date": "2025-06-04",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-05",
+    "cal_date": "2025-06-05",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-06",
+    "cal_date": "2025-06-06",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-07",
+    "cal_date": "2025-06-07",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-08",
+    "cal_date": "2025-06-08",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-09",
+    "cal_date": "2025-06-09",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-10",
+    "cal_date": "2025-06-10",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-11",
+    "cal_date": "2025-06-11",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-12",
+    "cal_date": "2025-06-12",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-13",
+    "cal_date": "2025-06-13",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-14",
+    "cal_date": "2025-06-14",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-15",
+    "cal_date": "2025-06-15",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-16",
+    "cal_date": "2025-06-16",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-17",
+    "cal_date": "2025-06-17",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-18",
+    "cal_date": "2025-06-18",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-19",
+    "cal_date": "2025-06-19",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-20",
+    "cal_date": "2025-06-20",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-21",
+    "cal_date": "2025-06-21",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-22",
+    "cal_date": "2025-06-22",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-23",
+    "cal_date": "2025-06-23",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-24",
+    "cal_date": "2025-06-24",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-25",
+    "cal_date": "2025-06-25",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-26",
+    "cal_date": "2025-06-26",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-27",
+    "cal_date": "2025-06-27",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-28",
+    "cal_date": "2025-06-28",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-29",
+    "cal_date": "2025-06-29",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-06-30",
+    "cal_date": "2025-06-30",
+    "year": 2025,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-01",
+    "cal_date": "2025-07-01",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-02",
+    "cal_date": "2025-07-02",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-03",
+    "cal_date": "2025-07-03",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-04",
+    "cal_date": "2025-07-04",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-05",
+    "cal_date": "2025-07-05",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-06",
+    "cal_date": "2025-07-06",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-07",
+    "cal_date": "2025-07-07",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-08",
+    "cal_date": "2025-07-08",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-09",
+    "cal_date": "2025-07-09",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-10",
+    "cal_date": "2025-07-10",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-11",
+    "cal_date": "2025-07-11",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-12",
+    "cal_date": "2025-07-12",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-13",
+    "cal_date": "2025-07-13",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-14",
+    "cal_date": "2025-07-14",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-15",
+    "cal_date": "2025-07-15",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-16",
+    "cal_date": "2025-07-16",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-17",
+    "cal_date": "2025-07-17",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-18",
+    "cal_date": "2025-07-18",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-19",
+    "cal_date": "2025-07-19",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-20",
+    "cal_date": "2025-07-20",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-21",
+    "cal_date": "2025-07-21",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-22",
+    "cal_date": "2025-07-22",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-23",
+    "cal_date": "2025-07-23",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-24",
+    "cal_date": "2025-07-24",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-25",
+    "cal_date": "2025-07-25",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-26",
+    "cal_date": "2025-07-26",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-27",
+    "cal_date": "2025-07-27",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-28",
+    "cal_date": "2025-07-28",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-29",
+    "cal_date": "2025-07-29",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-30",
+    "cal_date": "2025-07-30",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-07-31",
+    "cal_date": "2025-07-31",
+    "year": 2025,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-01",
+    "cal_date": "2025-08-01",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-02",
+    "cal_date": "2025-08-02",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-03",
+    "cal_date": "2025-08-03",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-04",
+    "cal_date": "2025-08-04",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-05",
+    "cal_date": "2025-08-05",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-06",
+    "cal_date": "2025-08-06",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-07",
+    "cal_date": "2025-08-07",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-08",
+    "cal_date": "2025-08-08",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-09",
+    "cal_date": "2025-08-09",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-10",
+    "cal_date": "2025-08-10",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-11",
+    "cal_date": "2025-08-11",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-12",
+    "cal_date": "2025-08-12",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-13",
+    "cal_date": "2025-08-13",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-14",
+    "cal_date": "2025-08-14",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-15",
+    "cal_date": "2025-08-15",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-16",
+    "cal_date": "2025-08-16",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-17",
+    "cal_date": "2025-08-17",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-18",
+    "cal_date": "2025-08-18",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-19",
+    "cal_date": "2025-08-19",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-20",
+    "cal_date": "2025-08-20",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-21",
+    "cal_date": "2025-08-21",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-22",
+    "cal_date": "2025-08-22",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-23",
+    "cal_date": "2025-08-23",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-24",
+    "cal_date": "2025-08-24",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-25",
+    "cal_date": "2025-08-25",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-26",
+    "cal_date": "2025-08-26",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-27",
+    "cal_date": "2025-08-27",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-28",
+    "cal_date": "2025-08-28",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-29",
+    "cal_date": "2025-08-29",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-30",
+    "cal_date": "2025-08-30",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-08-31",
+    "cal_date": "2025-08-31",
+    "year": 2025,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2025-09-01",
+    "cal_date": "2025-09-01",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-02",
+    "cal_date": "2025-09-02",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-03",
+    "cal_date": "2025-09-03",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-04",
+    "cal_date": "2025-09-04",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-05",
+    "cal_date": "2025-09-05",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-06",
+    "cal_date": "2025-09-06",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-07",
+    "cal_date": "2025-09-07",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-08",
+    "cal_date": "2025-09-08",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-09",
+    "cal_date": "2025-09-09",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-10",
+    "cal_date": "2025-09-10",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-11",
+    "cal_date": "2025-09-11",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-12",
+    "cal_date": "2025-09-12",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-13",
+    "cal_date": "2025-09-13",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-14",
+    "cal_date": "2025-09-14",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-15",
+    "cal_date": "2025-09-15",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-16",
+    "cal_date": "2025-09-16",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-17",
+    "cal_date": "2025-09-17",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-18",
+    "cal_date": "2025-09-18",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-19",
+    "cal_date": "2025-09-19",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-20",
+    "cal_date": "2025-09-20",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-21",
+    "cal_date": "2025-09-21",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-22",
+    "cal_date": "2025-09-22",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-23",
+    "cal_date": "2025-09-23",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-24",
+    "cal_date": "2025-09-24",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-25",
+    "cal_date": "2025-09-25",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-26",
+    "cal_date": "2025-09-26",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-27",
+    "cal_date": "2025-09-27",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-28",
+    "cal_date": "2025-09-28",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-29",
+    "cal_date": "2025-09-29",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-09-30",
+    "cal_date": "2025-09-30",
+    "year": 2025,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-01",
+    "cal_date": "2025-10-01",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-02",
+    "cal_date": "2025-10-02",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-03",
+    "cal_date": "2025-10-03",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-04",
+    "cal_date": "2025-10-04",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-05",
+    "cal_date": "2025-10-05",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-06",
+    "cal_date": "2025-10-06",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-07",
+    "cal_date": "2025-10-07",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-08",
+    "cal_date": "2025-10-08",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-09",
+    "cal_date": "2025-10-09",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-10",
+    "cal_date": "2025-10-10",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-11",
+    "cal_date": "2025-10-11",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-12",
+    "cal_date": "2025-10-12",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-13",
+    "cal_date": "2025-10-13",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-14",
+    "cal_date": "2025-10-14",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-15",
+    "cal_date": "2025-10-15",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-16",
+    "cal_date": "2025-10-16",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-17",
+    "cal_date": "2025-10-17",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-18",
+    "cal_date": "2025-10-18",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-19",
+    "cal_date": "2025-10-19",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-20",
+    "cal_date": "2025-10-20",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-21",
+    "cal_date": "2025-10-21",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-22",
+    "cal_date": "2025-10-22",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-23",
+    "cal_date": "2025-10-23",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-24",
+    "cal_date": "2025-10-24",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-25",
+    "cal_date": "2025-10-25",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-26",
+    "cal_date": "2025-10-26",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-27",
+    "cal_date": "2025-10-27",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-28",
+    "cal_date": "2025-10-28",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-29",
+    "cal_date": "2025-10-29",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-30",
+    "cal_date": "2025-10-30",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-10-31",
+    "cal_date": "2025-10-31",
+    "year": 2025,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-01",
+    "cal_date": "2025-11-01",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-02",
+    "cal_date": "2025-11-02",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-03",
+    "cal_date": "2025-11-03",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-04",
+    "cal_date": "2025-11-04",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-05",
+    "cal_date": "2025-11-05",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-06",
+    "cal_date": "2025-11-06",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-07",
+    "cal_date": "2025-11-07",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-08",
+    "cal_date": "2025-11-08",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-09",
+    "cal_date": "2025-11-09",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-10",
+    "cal_date": "2025-11-10",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-11",
+    "cal_date": "2025-11-11",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-12",
+    "cal_date": "2025-11-12",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-13",
+    "cal_date": "2025-11-13",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-14",
+    "cal_date": "2025-11-14",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-15",
+    "cal_date": "2025-11-15",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-16",
+    "cal_date": "2025-11-16",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-17",
+    "cal_date": "2025-11-17",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-18",
+    "cal_date": "2025-11-18",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-19",
+    "cal_date": "2025-11-19",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-20",
+    "cal_date": "2025-11-20",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-21",
+    "cal_date": "2025-11-21",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-22",
+    "cal_date": "2025-11-22",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-23",
+    "cal_date": "2025-11-23",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-24",
+    "cal_date": "2025-11-24",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-25",
+    "cal_date": "2025-11-25",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-26",
+    "cal_date": "2025-11-26",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-27",
+    "cal_date": "2025-11-27",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-28",
+    "cal_date": "2025-11-28",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-29",
+    "cal_date": "2025-11-29",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-11-30",
+    "cal_date": "2025-11-30",
+    "year": 2025,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2025-12-01",
+    "cal_date": "2025-12-01",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-02",
+    "cal_date": "2025-12-02",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-03",
+    "cal_date": "2025-12-03",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-04",
+    "cal_date": "2025-12-04",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-05",
+    "cal_date": "2025-12-05",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-06",
+    "cal_date": "2025-12-06",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-07",
+    "cal_date": "2025-12-07",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-08",
+    "cal_date": "2025-12-08",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-09",
+    "cal_date": "2025-12-09",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-10",
+    "cal_date": "2025-12-10",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-11",
+    "cal_date": "2025-12-11",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-12",
+    "cal_date": "2025-12-12",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-13",
+    "cal_date": "2025-12-13",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-14",
+    "cal_date": "2025-12-14",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-15",
+    "cal_date": "2025-12-15",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-16",
+    "cal_date": "2025-12-16",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-17",
+    "cal_date": "2025-12-17",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-18",
+    "cal_date": "2025-12-18",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-19",
+    "cal_date": "2025-12-19",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-20",
+    "cal_date": "2025-12-20",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-21",
+    "cal_date": "2025-12-21",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-22",
+    "cal_date": "2025-12-22",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-23",
+    "cal_date": "2025-12-23",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-24",
+    "cal_date": "2025-12-24",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-25",
+    "cal_date": "2025-12-25",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-26",
+    "cal_date": "2025-12-26",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-27",
+    "cal_date": "2025-12-27",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-28",
+    "cal_date": "2025-12-28",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-29",
+    "cal_date": "2025-12-29",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-30",
+    "cal_date": "2025-12-30",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2025-12-31",
+    "cal_date": "2025-12-31",
+    "year": 2025,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-01",
+    "cal_date": "2026-01-01",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-02",
+    "cal_date": "2026-01-02",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-03",
+    "cal_date": "2026-01-03",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-04",
+    "cal_date": "2026-01-04",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-05",
+    "cal_date": "2026-01-05",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-06",
+    "cal_date": "2026-01-06",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-07",
+    "cal_date": "2026-01-07",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-08",
+    "cal_date": "2026-01-08",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-09",
+    "cal_date": "2026-01-09",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-10",
+    "cal_date": "2026-01-10",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-11",
+    "cal_date": "2026-01-11",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-12",
+    "cal_date": "2026-01-12",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-13",
+    "cal_date": "2026-01-13",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-14",
+    "cal_date": "2026-01-14",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-15",
+    "cal_date": "2026-01-15",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-16",
+    "cal_date": "2026-01-16",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-17",
+    "cal_date": "2026-01-17",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-18",
+    "cal_date": "2026-01-18",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-19",
+    "cal_date": "2026-01-19",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-20",
+    "cal_date": "2026-01-20",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-21",
+    "cal_date": "2026-01-21",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-22",
+    "cal_date": "2026-01-22",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-23",
+    "cal_date": "2026-01-23",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-24",
+    "cal_date": "2026-01-24",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-25",
+    "cal_date": "2026-01-25",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-26",
+    "cal_date": "2026-01-26",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-27",
+    "cal_date": "2026-01-27",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-28",
+    "cal_date": "2026-01-28",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-29",
+    "cal_date": "2026-01-29",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-30",
+    "cal_date": "2026-01-30",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-01-31",
+    "cal_date": "2026-01-31",
+    "year": 2026,
+    "month": 1,
+    "month_name": "January",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-01",
+    "cal_date": "2026-02-01",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-02",
+    "cal_date": "2026-02-02",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-03",
+    "cal_date": "2026-02-03",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-04",
+    "cal_date": "2026-02-04",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-05",
+    "cal_date": "2026-02-05",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-06",
+    "cal_date": "2026-02-06",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-07",
+    "cal_date": "2026-02-07",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-08",
+    "cal_date": "2026-02-08",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-09",
+    "cal_date": "2026-02-09",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-10",
+    "cal_date": "2026-02-10",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-11",
+    "cal_date": "2026-02-11",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-12",
+    "cal_date": "2026-02-12",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-13",
+    "cal_date": "2026-02-13",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-14",
+    "cal_date": "2026-02-14",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-15",
+    "cal_date": "2026-02-15",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-16",
+    "cal_date": "2026-02-16",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-17",
+    "cal_date": "2026-02-17",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-18",
+    "cal_date": "2026-02-18",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-19",
+    "cal_date": "2026-02-19",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-20",
+    "cal_date": "2026-02-20",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-21",
+    "cal_date": "2026-02-21",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-22",
+    "cal_date": "2026-02-22",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-23",
+    "cal_date": "2026-02-23",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-24",
+    "cal_date": "2026-02-24",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-25",
+    "cal_date": "2026-02-25",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-26",
+    "cal_date": "2026-02-26",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-27",
+    "cal_date": "2026-02-27",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-02-28",
+    "cal_date": "2026-02-28",
+    "year": 2026,
+    "month": 2,
+    "month_name": "February",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-03-01",
+    "cal_date": "2026-03-01",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-02",
+    "cal_date": "2026-03-02",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-03",
+    "cal_date": "2026-03-03",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-04",
+    "cal_date": "2026-03-04",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-05",
+    "cal_date": "2026-03-05",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-06",
+    "cal_date": "2026-03-06",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-07",
+    "cal_date": "2026-03-07",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-08",
+    "cal_date": "2026-03-08",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-09",
+    "cal_date": "2026-03-09",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-10",
+    "cal_date": "2026-03-10",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-11",
+    "cal_date": "2026-03-11",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-12",
+    "cal_date": "2026-03-12",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-13",
+    "cal_date": "2026-03-13",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-14",
+    "cal_date": "2026-03-14",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-15",
+    "cal_date": "2026-03-15",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-16",
+    "cal_date": "2026-03-16",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-17",
+    "cal_date": "2026-03-17",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-18",
+    "cal_date": "2026-03-18",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-19",
+    "cal_date": "2026-03-19",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-20",
+    "cal_date": "2026-03-20",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-21",
+    "cal_date": "2026-03-21",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-22",
+    "cal_date": "2026-03-22",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-23",
+    "cal_date": "2026-03-23",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-24",
+    "cal_date": "2026-03-24",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-25",
+    "cal_date": "2026-03-25",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-26",
+    "cal_date": "2026-03-26",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-27",
+    "cal_date": "2026-03-27",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-28",
+    "cal_date": "2026-03-28",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-29",
+    "cal_date": "2026-03-29",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-30",
+    "cal_date": "2026-03-30",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-03-31",
+    "cal_date": "2026-03-31",
+    "year": 2026,
+    "month": 3,
+    "month_name": "March",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-01",
+    "cal_date": "2026-04-01",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-02",
+    "cal_date": "2026-04-02",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-03",
+    "cal_date": "2026-04-03",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-04",
+    "cal_date": "2026-04-04",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-05",
+    "cal_date": "2026-04-05",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-06",
+    "cal_date": "2026-04-06",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-07",
+    "cal_date": "2026-04-07",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-08",
+    "cal_date": "2026-04-08",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-09",
+    "cal_date": "2026-04-09",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-10",
+    "cal_date": "2026-04-10",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-11",
+    "cal_date": "2026-04-11",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-12",
+    "cal_date": "2026-04-12",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-13",
+    "cal_date": "2026-04-13",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-14",
+    "cal_date": "2026-04-14",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-15",
+    "cal_date": "2026-04-15",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-16",
+    "cal_date": "2026-04-16",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-17",
+    "cal_date": "2026-04-17",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-18",
+    "cal_date": "2026-04-18",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-19",
+    "cal_date": "2026-04-19",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-20",
+    "cal_date": "2026-04-20",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-21",
+    "cal_date": "2026-04-21",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-22",
+    "cal_date": "2026-04-22",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-23",
+    "cal_date": "2026-04-23",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-24",
+    "cal_date": "2026-04-24",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-25",
+    "cal_date": "2026-04-25",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-26",
+    "cal_date": "2026-04-26",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-27",
+    "cal_date": "2026-04-27",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-28",
+    "cal_date": "2026-04-28",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-29",
+    "cal_date": "2026-04-29",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-04-30",
+    "cal_date": "2026-04-30",
+    "year": 2026,
+    "month": 4,
+    "month_name": "April",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-01",
+    "cal_date": "2026-05-01",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-02",
+    "cal_date": "2026-05-02",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-03",
+    "cal_date": "2026-05-03",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-04",
+    "cal_date": "2026-05-04",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-05",
+    "cal_date": "2026-05-05",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-06",
+    "cal_date": "2026-05-06",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-07",
+    "cal_date": "2026-05-07",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-08",
+    "cal_date": "2026-05-08",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-09",
+    "cal_date": "2026-05-09",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-10",
+    "cal_date": "2026-05-10",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-11",
+    "cal_date": "2026-05-11",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-12",
+    "cal_date": "2026-05-12",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-13",
+    "cal_date": "2026-05-13",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-14",
+    "cal_date": "2026-05-14",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-15",
+    "cal_date": "2026-05-15",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-16",
+    "cal_date": "2026-05-16",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-17",
+    "cal_date": "2026-05-17",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-18",
+    "cal_date": "2026-05-18",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-19",
+    "cal_date": "2026-05-19",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-20",
+    "cal_date": "2026-05-20",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-21",
+    "cal_date": "2026-05-21",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-22",
+    "cal_date": "2026-05-22",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-23",
+    "cal_date": "2026-05-23",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-24",
+    "cal_date": "2026-05-24",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-25",
+    "cal_date": "2026-05-25",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-26",
+    "cal_date": "2026-05-26",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-27",
+    "cal_date": "2026-05-27",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-28",
+    "cal_date": "2026-05-28",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-29",
+    "cal_date": "2026-05-29",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-30",
+    "cal_date": "2026-05-30",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-05-31",
+    "cal_date": "2026-05-31",
+    "year": 2026,
+    "month": 5,
+    "month_name": "May",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Spring"
+  },
+  {
+    "_id": "2026-06-01",
+    "cal_date": "2026-06-01",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-02",
+    "cal_date": "2026-06-02",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-03",
+    "cal_date": "2026-06-03",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-04",
+    "cal_date": "2026-06-04",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-05",
+    "cal_date": "2026-06-05",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-06",
+    "cal_date": "2026-06-06",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-07",
+    "cal_date": "2026-06-07",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-08",
+    "cal_date": "2026-06-08",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-09",
+    "cal_date": "2026-06-09",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-10",
+    "cal_date": "2026-06-10",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-11",
+    "cal_date": "2026-06-11",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-12",
+    "cal_date": "2026-06-12",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-13",
+    "cal_date": "2026-06-13",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-14",
+    "cal_date": "2026-06-14",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-15",
+    "cal_date": "2026-06-15",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-16",
+    "cal_date": "2026-06-16",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-17",
+    "cal_date": "2026-06-17",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-18",
+    "cal_date": "2026-06-18",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-19",
+    "cal_date": "2026-06-19",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-20",
+    "cal_date": "2026-06-20",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-21",
+    "cal_date": "2026-06-21",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-22",
+    "cal_date": "2026-06-22",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-23",
+    "cal_date": "2026-06-23",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-24",
+    "cal_date": "2026-06-24",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-25",
+    "cal_date": "2026-06-25",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-26",
+    "cal_date": "2026-06-26",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-27",
+    "cal_date": "2026-06-27",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-28",
+    "cal_date": "2026-06-28",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-29",
+    "cal_date": "2026-06-29",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-06-30",
+    "cal_date": "2026-06-30",
+    "year": 2026,
+    "month": 6,
+    "month_name": "June",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-01",
+    "cal_date": "2026-07-01",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-02",
+    "cal_date": "2026-07-02",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-03",
+    "cal_date": "2026-07-03",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-04",
+    "cal_date": "2026-07-04",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-05",
+    "cal_date": "2026-07-05",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-06",
+    "cal_date": "2026-07-06",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-07",
+    "cal_date": "2026-07-07",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-08",
+    "cal_date": "2026-07-08",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-09",
+    "cal_date": "2026-07-09",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-10",
+    "cal_date": "2026-07-10",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-11",
+    "cal_date": "2026-07-11",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-12",
+    "cal_date": "2026-07-12",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-13",
+    "cal_date": "2026-07-13",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-14",
+    "cal_date": "2026-07-14",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-15",
+    "cal_date": "2026-07-15",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-16",
+    "cal_date": "2026-07-16",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-17",
+    "cal_date": "2026-07-17",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-18",
+    "cal_date": "2026-07-18",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-19",
+    "cal_date": "2026-07-19",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-20",
+    "cal_date": "2026-07-20",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-21",
+    "cal_date": "2026-07-21",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-22",
+    "cal_date": "2026-07-22",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-23",
+    "cal_date": "2026-07-23",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-24",
+    "cal_date": "2026-07-24",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-25",
+    "cal_date": "2026-07-25",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-26",
+    "cal_date": "2026-07-26",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-27",
+    "cal_date": "2026-07-27",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-28",
+    "cal_date": "2026-07-28",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-29",
+    "cal_date": "2026-07-29",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-30",
+    "cal_date": "2026-07-30",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-07-31",
+    "cal_date": "2026-07-31",
+    "year": 2026,
+    "month": 7,
+    "month_name": "July",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-01",
+    "cal_date": "2026-08-01",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-02",
+    "cal_date": "2026-08-02",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-03",
+    "cal_date": "2026-08-03",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-04",
+    "cal_date": "2026-08-04",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-05",
+    "cal_date": "2026-08-05",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-06",
+    "cal_date": "2026-08-06",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-07",
+    "cal_date": "2026-08-07",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-08",
+    "cal_date": "2026-08-08",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-09",
+    "cal_date": "2026-08-09",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-10",
+    "cal_date": "2026-08-10",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-11",
+    "cal_date": "2026-08-11",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-12",
+    "cal_date": "2026-08-12",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-13",
+    "cal_date": "2026-08-13",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-14",
+    "cal_date": "2026-08-14",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-15",
+    "cal_date": "2026-08-15",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-16",
+    "cal_date": "2026-08-16",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-17",
+    "cal_date": "2026-08-17",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-18",
+    "cal_date": "2026-08-18",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-19",
+    "cal_date": "2026-08-19",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-20",
+    "cal_date": "2026-08-20",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-21",
+    "cal_date": "2026-08-21",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-22",
+    "cal_date": "2026-08-22",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-23",
+    "cal_date": "2026-08-23",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-24",
+    "cal_date": "2026-08-24",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-25",
+    "cal_date": "2026-08-25",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-26",
+    "cal_date": "2026-08-26",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-27",
+    "cal_date": "2026-08-27",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-28",
+    "cal_date": "2026-08-28",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-29",
+    "cal_date": "2026-08-29",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-30",
+    "cal_date": "2026-08-30",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-08-31",
+    "cal_date": "2026-08-31",
+    "year": 2026,
+    "month": 8,
+    "month_name": "August",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Summer"
+  },
+  {
+    "_id": "2026-09-01",
+    "cal_date": "2026-09-01",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-02",
+    "cal_date": "2026-09-02",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-03",
+    "cal_date": "2026-09-03",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-04",
+    "cal_date": "2026-09-04",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-05",
+    "cal_date": "2026-09-05",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-06",
+    "cal_date": "2026-09-06",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-07",
+    "cal_date": "2026-09-07",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-08",
+    "cal_date": "2026-09-08",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-09",
+    "cal_date": "2026-09-09",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-10",
+    "cal_date": "2026-09-10",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-11",
+    "cal_date": "2026-09-11",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-12",
+    "cal_date": "2026-09-12",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-13",
+    "cal_date": "2026-09-13",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-14",
+    "cal_date": "2026-09-14",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-15",
+    "cal_date": "2026-09-15",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-16",
+    "cal_date": "2026-09-16",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-17",
+    "cal_date": "2026-09-17",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-18",
+    "cal_date": "2026-09-18",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-19",
+    "cal_date": "2026-09-19",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-20",
+    "cal_date": "2026-09-20",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-21",
+    "cal_date": "2026-09-21",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-22",
+    "cal_date": "2026-09-22",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-23",
+    "cal_date": "2026-09-23",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-24",
+    "cal_date": "2026-09-24",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-25",
+    "cal_date": "2026-09-25",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-26",
+    "cal_date": "2026-09-26",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-27",
+    "cal_date": "2026-09-27",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-28",
+    "cal_date": "2026-09-28",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-29",
+    "cal_date": "2026-09-29",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-09-30",
+    "cal_date": "2026-09-30",
+    "year": 2026,
+    "month": 9,
+    "month_name": "September",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-01",
+    "cal_date": "2026-10-01",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-02",
+    "cal_date": "2026-10-02",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-03",
+    "cal_date": "2026-10-03",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-04",
+    "cal_date": "2026-10-04",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-05",
+    "cal_date": "2026-10-05",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-06",
+    "cal_date": "2026-10-06",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-07",
+    "cal_date": "2026-10-07",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-08",
+    "cal_date": "2026-10-08",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-09",
+    "cal_date": "2026-10-09",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-10",
+    "cal_date": "2026-10-10",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-11",
+    "cal_date": "2026-10-11",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-12",
+    "cal_date": "2026-10-12",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-13",
+    "cal_date": "2026-10-13",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-14",
+    "cal_date": "2026-10-14",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-15",
+    "cal_date": "2026-10-15",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-16",
+    "cal_date": "2026-10-16",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-17",
+    "cal_date": "2026-10-17",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-18",
+    "cal_date": "2026-10-18",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-19",
+    "cal_date": "2026-10-19",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-20",
+    "cal_date": "2026-10-20",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-21",
+    "cal_date": "2026-10-21",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-22",
+    "cal_date": "2026-10-22",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-23",
+    "cal_date": "2026-10-23",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-24",
+    "cal_date": "2026-10-24",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-25",
+    "cal_date": "2026-10-25",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-26",
+    "cal_date": "2026-10-26",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-27",
+    "cal_date": "2026-10-27",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-28",
+    "cal_date": "2026-10-28",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-29",
+    "cal_date": "2026-10-29",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-30",
+    "cal_date": "2026-10-30",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-10-31",
+    "cal_date": "2026-10-31",
+    "year": 2026,
+    "month": 10,
+    "month_name": "October",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-01",
+    "cal_date": "2026-11-01",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-02",
+    "cal_date": "2026-11-02",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-03",
+    "cal_date": "2026-11-03",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-04",
+    "cal_date": "2026-11-04",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-05",
+    "cal_date": "2026-11-05",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-06",
+    "cal_date": "2026-11-06",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-07",
+    "cal_date": "2026-11-07",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-08",
+    "cal_date": "2026-11-08",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-09",
+    "cal_date": "2026-11-09",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-10",
+    "cal_date": "2026-11-10",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-11",
+    "cal_date": "2026-11-11",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-12",
+    "cal_date": "2026-11-12",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-13",
+    "cal_date": "2026-11-13",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-14",
+    "cal_date": "2026-11-14",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-15",
+    "cal_date": "2026-11-15",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-16",
+    "cal_date": "2026-11-16",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-17",
+    "cal_date": "2026-11-17",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-18",
+    "cal_date": "2026-11-18",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-19",
+    "cal_date": "2026-11-19",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-20",
+    "cal_date": "2026-11-20",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-21",
+    "cal_date": "2026-11-21",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-22",
+    "cal_date": "2026-11-22",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-23",
+    "cal_date": "2026-11-23",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-24",
+    "cal_date": "2026-11-24",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-25",
+    "cal_date": "2026-11-25",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-26",
+    "cal_date": "2026-11-26",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-27",
+    "cal_date": "2026-11-27",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-28",
+    "cal_date": "2026-11-28",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-29",
+    "cal_date": "2026-11-29",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-11-30",
+    "cal_date": "2026-11-30",
+    "year": 2026,
+    "month": 11,
+    "month_name": "November",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Autumn"
+  },
+  {
+    "_id": "2026-12-01",
+    "cal_date": "2026-12-01",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-02",
+    "cal_date": "2026-12-02",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-03",
+    "cal_date": "2026-12-03",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-04",
+    "cal_date": "2026-12-04",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-05",
+    "cal_date": "2026-12-05",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-06",
+    "cal_date": "2026-12-06",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-07",
+    "cal_date": "2026-12-07",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-08",
+    "cal_date": "2026-12-08",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-09",
+    "cal_date": "2026-12-09",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-10",
+    "cal_date": "2026-12-10",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-11",
+    "cal_date": "2026-12-11",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-12",
+    "cal_date": "2026-12-12",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-13",
+    "cal_date": "2026-12-13",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-14",
+    "cal_date": "2026-12-14",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-15",
+    "cal_date": "2026-12-15",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-16",
+    "cal_date": "2026-12-16",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-17",
+    "cal_date": "2026-12-17",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-18",
+    "cal_date": "2026-12-18",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-19",
+    "cal_date": "2026-12-19",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-20",
+    "cal_date": "2026-12-20",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-21",
+    "cal_date": "2026-12-21",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-22",
+    "cal_date": "2026-12-22",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-23",
+    "cal_date": "2026-12-23",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-24",
+    "cal_date": "2026-12-24",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-25",
+    "cal_date": "2026-12-25",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Friday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-26",
+    "cal_date": "2026-12-26",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Saturday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-27",
+    "cal_date": "2026-12-27",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Sunday",
+    "is_weekend": 1,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-28",
+    "cal_date": "2026-12-28",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Monday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-29",
+    "cal_date": "2026-12-29",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Tuesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-30",
+    "cal_date": "2026-12-30",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Wednesday",
+    "is_weekend": 0,
+    "season": "Winter"
+  },
+  {
+    "_id": "2026-12-31",
+    "cal_date": "2026-12-31",
+    "year": 2026,
+    "month": 12,
+    "month_name": "December",
+    "day_of_week": "Thursday",
+    "is_weekend": 0,
+    "season": "Winter"
+  }
+]

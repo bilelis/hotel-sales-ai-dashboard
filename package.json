@@ -1,0 +1,14 @@
+{
+  "name": "grand-azur-hotel-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grand Azur 5-Star Hotel Management System: React Frontend + Node/Express Clean Architecture API + MongoDB + Ollama AI",
+  "scripts": {
+    "api": "npm --prefix hotel-api start",
+    "api:dev": "npm --prefix hotel-api run dev",
+    "web": "npm --prefix front run dev",
+    "web:build": "npm --prefix front run build",
+    "build:all": "npm --prefix hotel-api run build && npm --prefix front run build",
+    "test:api": "npm --prefix hotel-api run test:api"
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "_id": 1,
+    "channel_id": 1,
+    "name": "Direct Website",
+    "channel_type": "Direct",
+    "commission_pct": 0.0
+  },
+  {
+    "_id": 2,
+    "channel_id": 2,
+    "name": "Phone / Email",
+    "channel_type": "Direct",
+    "commission_pct": 0.0
+  },
+  {
+    "_id": 3,
+    "channel_id": 3,
+    "name": "Booking.com",
+    "channel_type": "OTA",
+    "commission_pct": 15.0
+  },
+  {
+    "_id": 4,
+    "channel_id": 4,
+    "name": "Expedia",
+    "channel_type": "OTA",
+    "commission_pct": 18.0
+  },
+  {
+    "_id": 5,
+    "channel_id": 5,
+    "name": "Travel Agency",
+    "channel_type": "Travel Agency",
+    "commission_pct": 10.0
+  },
+  {
+    "_id": 6,
+    "channel_id": 6,
+    "name": "Tour Operator",
+    "channel_type": "Tour Operator",
+    "commission_pct": 20.0
+  },
+  {
+    "_id": 7,
+    "channel_id": 7,
+    "name": "Corporate",
+    "channel_type": "Corporate",
+    "commission_pct": 0.0
+  },
+  {
+    "_id": 8,
+    "channel_id": 8,
+    "name": "Walk-in",
+    "channel_type": "Direct",
+    "commission_pct": 0.0
+  },
+  {
+    "_id": 9,
+    "channel_id": 9,
+    "name": "Meetings & Events",
+    "channel_type": "Corporate",
+    "commission_pct": 0.0
+  }
+]

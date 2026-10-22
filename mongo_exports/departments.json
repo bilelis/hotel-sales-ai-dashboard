@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "department_id": 1,
+    "name": "Rooms"
+  },
+  {
+    "_id": 2,
+    "department_id": 2,
+    "name": "Food & Beverage"
+  },
+  {
+    "_id": 3,
+    "department_id": 3,
+    "name": "Spa & Wellness"
+  },
+  {
+    "_id": 4,
+    "department_id": 4,
+    "name": "Events & Meetings"
+  },
+  {
+    "_id": 5,
+    "department_id": 5,
+    "name": "Minibar & Extras"
+  },
+  {
+    "_id": 6,
+    "department_id": 6,
+    "name": "Transport"
+  }
+]

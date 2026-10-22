@@ -1,0 +1,47 @@
+[
+  {
+    "_id": 1,
+    "room_type_id": 1,
+    "name": "Classic Deluxe",
+    "description": "Elegant room with garden view",
+    "base_rate": 210.0,
+    "max_occupancy": 3,
+    "size_sqm": 38
+  },
+  {
+    "_id": 2,
+    "room_type_id": 2,
+    "name": "Deluxe Sea View",
+    "description": "Spacious room with balcony and sea view",
+    "base_rate": 270.0,
+    "max_occupancy": 3,
+    "size_sqm": 44
+  },
+  {
+    "_id": 3,
+    "room_type_id": 3,
+    "name": "Junior Suite",
+    "description": "Suite with separate lounge area",
+    "base_rate": 380.0,
+    "max_occupancy": 4,
+    "size_sqm": 62
+  },
+  {
+    "_id": 4,
+    "room_type_id": 4,
+    "name": "Executive Suite",
+    "description": "Large suite, butler service, panoramic terrace",
+    "base_rate": 520.0,
+    "max_occupancy": 4,
+    "size_sqm": 85
+  },
+  {
+    "_id": 5,
+    "room_type_id": 5,
+    "name": "Presidential Suite",
+    "description": "Signature suite, two bedrooms, private terrace",
+    "base_rate": 1400.0,
+    "max_occupancy": 6,
+    "size_sqm": 180
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "hotel_name",
+    "key": "hotel_name",
+    "value": "Grand Azur Palace (fictional 5-star hotel)"
+  },
+  {
+    "_id": "currency",
+    "key": "currency",
+    "value": "EUR"
+  },
+  {
+    "_id": "data_as_of",
+    "key": "data_as_of",
+    "value": "2026-10-17"
+  },
+  {
+    "_id": "total_rooms",
+    "key": "total_rooms",
+    "value": "60"
+  },
+  {
+    "_id": "note",
+    "key": "note",
+    "value": "Dates before/at data_as_of are realized; later stays are future 'Confirmed' bookings (on the books)."
+  }
+]

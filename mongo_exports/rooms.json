@@ -1,0 +1,542 @@
+[
+  {
+    "_id": 1,
+    "room_id": 1,
+    "room_number": "101",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 2,
+    "room_id": 2,
+    "room_number": "102",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 3,
+    "room_id": 3,
+    "room_number": "103",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 4,
+    "room_id": 4,
+    "room_number": "104",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 5,
+    "room_id": 5,
+    "room_number": "105",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 6,
+    "room_id": 6,
+    "room_number": "106",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 7,
+    "room_id": 7,
+    "room_number": "107",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 8,
+    "room_id": 8,
+    "room_number": "108",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 9,
+    "room_id": 9,
+    "room_number": "109",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 10,
+    "room_id": 10,
+    "room_number": "110",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 11,
+    "room_id": 11,
+    "room_number": "111",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 12,
+    "room_id": 12,
+    "room_number": "112",
+    "room_type_id": 1,
+    "floor": 1,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 13,
+    "room_id": 13,
+    "room_number": "201",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 14,
+    "room_id": 14,
+    "room_number": "202",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 15,
+    "room_id": 15,
+    "room_number": "203",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 16,
+    "room_id": 16,
+    "room_number": "204",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 17,
+    "room_id": 17,
+    "room_number": "205",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 18,
+    "room_id": 18,
+    "room_number": "206",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 19,
+    "room_id": 19,
+    "room_number": "207",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 20,
+    "room_id": 20,
+    "room_number": "208",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 21,
+    "room_id": 21,
+    "room_number": "209",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 22,
+    "room_id": 22,
+    "room_number": "210",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 23,
+    "room_id": 23,
+    "room_number": "211",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 24,
+    "room_id": 24,
+    "room_number": "212",
+    "room_type_id": 1,
+    "floor": 2,
+    "view": "Garden",
+    "is_active": 1
+  },
+  {
+    "_id": 25,
+    "room_id": 25,
+    "room_number": "301",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 26,
+    "room_id": 26,
+    "room_number": "302",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 27,
+    "room_id": 27,
+    "room_number": "303",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 28,
+    "room_id": 28,
+    "room_number": "304",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 29,
+    "room_id": 29,
+    "room_number": "305",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 30,
+    "room_id": 30,
+    "room_number": "306",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 31,
+    "room_id": 31,
+    "room_number": "307",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 32,
+    "room_id": 32,
+    "room_number": "308",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 33,
+    "room_id": 33,
+    "room_number": "309",
+    "room_type_id": 2,
+    "floor": 3,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 34,
+    "room_id": 34,
+    "room_number": "401",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 35,
+    "room_id": 35,
+    "room_number": "402",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 36,
+    "room_id": 36,
+    "room_number": "403",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 37,
+    "room_id": 37,
+    "room_number": "404",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 38,
+    "room_id": 38,
+    "room_number": "405",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 39,
+    "room_id": 39,
+    "room_number": "406",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 40,
+    "room_id": 40,
+    "room_number": "407",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 41,
+    "room_id": 41,
+    "room_number": "408",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 42,
+    "room_id": 42,
+    "room_number": "409",
+    "room_type_id": 2,
+    "floor": 4,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 43,
+    "room_id": 43,
+    "room_number": "501",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 44,
+    "room_id": 44,
+    "room_number": "502",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 45,
+    "room_id": 45,
+    "room_number": "503",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 46,
+    "room_id": 46,
+    "room_number": "504",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 47,
+    "room_id": 47,
+    "room_number": "505",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 48,
+    "room_id": 48,
+    "room_number": "506",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 49,
+    "room_id": 49,
+    "room_number": "507",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 50,
+    "room_id": 50,
+    "room_number": "508",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 51,
+    "room_id": 51,
+    "room_number": "509",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 52,
+    "room_id": 52,
+    "room_number": "510",
+    "room_type_id": 3,
+    "floor": 5,
+    "view": "Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 53,
+    "room_id": 53,
+    "room_number": "601",
+    "room_type_id": 4,
+    "floor": 6,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 54,
+    "room_id": 54,
+    "room_number": "602",
+    "room_type_id": 4,
+    "floor": 6,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 55,
+    "room_id": 55,
+    "room_number": "603",
+    "room_type_id": 4,
+    "floor": 6,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 56,
+    "room_id": 56,
+    "room_number": "604",
+    "room_type_id": 4,
+    "floor": 6,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 57,
+    "room_id": 57,
+    "room_number": "605",
+    "room_type_id": 4,
+    "floor": 6,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 58,
+    "room_id": 58,
+    "room_number": "606",
+    "room_type_id": 4,
+    "floor": 6,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 59,
+    "room_id": 59,
+    "room_number": "701",
+    "room_type_id": 5,
+    "floor": 7,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  },
+  {
+    "_id": 60,
+    "room_id": 60,
+    "room_number": "702",
+    "room_type_id": 5,
+    "floor": 7,
+    "view": "Panoramic Sea",
+    "is_active": 1
+  }
+]
